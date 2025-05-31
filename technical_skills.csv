@@ -1,0 +1,33 @@
+Skill Area,Technology,Beginner Topics,Mid-Level Topics,Advanced Topics
+Languages/Frameworks,Java,"Syntax, OOP basics, Collections","Streams, Concurrency, Design Patterns","JVM internals, Reflection, Performance Tuning"
+Languages/Frameworks,Spring Boot,"Dependency Injection, REST API creation","Spring Boot Actuator, Security basics","Microservices Architecture, Reactive Programming"
+Languages/Frameworks,Hibernate,"ORM Basics, Simple CRUD","Advanced HQL, Transactions","Complex Joins, Performance Optimization"
+Languages/Frameworks,AngularJS,"Controllers, Directives, Data Binding","Routing, Services, Dependency Injection","State Management (ngRx), Performance Tuning"
+Languages/Frameworks,JavaScript,"Variables, Functions, Events","Promises, ES6 Features","Asynchronous Patterns, Framework Integrations"
+Languages/Frameworks,TypeScript,"Basic Types, Interfaces","Generics, Namespaces","Advanced Types, Decorators"
+Languages/Frameworks,HTML,"Basic Tags, Forms, Inputs","Semantic HTML, Accessibility",SEO Optimization
+Languages/Frameworks,CSS,"Selectors, Box Model","Flexbox, Grid","Animations, Preprocessors (SASS)"
+Databases,Oracle SQL,"SELECT queries, Filtering, Sorting","Stored Procedures, Views, Transactions","SQL Tuning, Backup/Recovery"
+Databases,PL/SQL,"Blocks, Cursors, Triggers","Exception Handling, Packages","Bulk Collect, FORALL, Security"
+Databases,MySQL,"Database design, Joins","Tuning, Stored Procedures","High Availability, Backup, Replication"
+Databases,MongoDB,"NoSQL Basics, Queries","Aggregation, Indexing","Sharding, Distributed Systems"
+Tools,Jenkins,"Job setup, Basics","Scripted Pipelines, Notifications","Jenkinsfile Libraries, Pipelines as Code"
+Tools,"Git, Gihub","Git clone, push, pull","Branching, Conflict Resolution",GitOps practices
+Tools,"Postman, Swagger","Simple API requests, Status codes",Writing Test Cases,"Advanced API Automation, Mock servers"
+Tools,JIRA,"Ticket creation, Basic workflow",Advanced Sprint planning,Custom workflows with JIRA APIs
+Tools,Toad,"Query running, Schema browsing",Automation tools,Advanced Database scripting
+Tools,"Eclipse, Visual studio, Pycharm","Install, Basic project setup","Debugging, Plugin development",Plugin-based Architecture
+Cloud/DevOps,Google Cloud Pub/Sub,Publish/Subscribe Basics,"Dead lettering, Ordering","Secure Message Delivery, Scalability"
+Cloud/DevOps,Docker (basics),Running containers,"Compose, Dockerfiles","Multi-stage builds, Kubernetes Basics"
+Cloud/DevOps,CI/CD pipelines,Basic Pipelines,Jenkins+GitHub Actions,Full Infra as Code pipelines
+Project Management,Agile (Scrum),"Scrum Basics, Sprint Cycle","Scrum Ceremonies, Burndown charts","SAFe, Scaled Agile"
+Project Management,Jira,Ticket workflows,Sprint Board maintenance,Program Increment Planning
+Project Management,"Sprint Planning, Estimation","User Story writing, Estimation techniques","Planning Poker, Backlog Grooming","Complex Estimation Models, Value Stream Mapping"
+Certifications,Scrum Alliance Scrum Master,Scrum Guide Overview,Facilitation techniques,Enterprise Agile Coaching
+Certifications,Google Certified Solution Architect,Cloud Basics,"GCP Networking, Compute, Storage","Multi-cloud Architecture, GCP Deep Dive"
+CI/CD,GitLab CI/CD,"Basic Pipelines, YAML Syntax, Runners Setup","Multi-stage Pipelines, Artifacts, Environments","Dynamic Pipelines, Custom Executors, Auto DevOps"
+CI/CD,GitHub Actions,"Workflow Creation, Events/Triggers, Actions Marketplace","Matrix Builds, Secrets Management, Caching Strategies","Reusable Workflows, Composite Actions, Secure Workflows"
+CI/CD,CircleCI,"Basic Pipeline Setup, YAML config, CircleCI Orbs","Parameterized Builds, Advanced Caching, Reusable Config","Custom Docker Executor, Contexts & Secrets Management"
+CI/CD,AWS CodePipeline,"Pipeline Basics, Source & Build Stages, Deploy Setup","Multi-Stage Pipelines, Manual Approvals, Artifacts Handling","Cross-Account Deployments, CodeBuild/CodeDeploy Integration"
+CI/CD,Azure DevOps,"Creating Pipelines, Boards, Repositories","Advanced Pipelines, Approvals, Deployment Slots","Service Connections, YAML Pipelines, Integration with Key Vault"
+CI/CD,TeamCity,"Basic Build Configuration, Simple Pipelines, VCS Integration","Parallel Builds, Deployment Pipelines, Notifications","Distributed Build Agents, Performance Tuning, Enterprise Scaling"
